@@ -23,7 +23,7 @@
 - **Cross-Origin Resource Sharing (CORS)**: a method for a server to indicate
   any ports (or other identifiers) for servers that can share its resources.
 - **Transmission Control Protocol (TCP)**: a protocol that defines how computers
-  send data to each other. A connection is formed and stars active until the
+  send data to each other. A connection is formed and stays active until the
   applications on either end have finished sending data to one another.
 - **Hypertext Transfer Protocol (HTTP)**: a stateless protocol where
   applications communicate for the length of time that it takes for data to be
